@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: rgb(219, 214, 214);
+    margin:2rem;
+}
+
+.main__texto {
+    color:rgb(170, 168, 168);
+    margin-top: 2rem;
+    font-size: 1.2rem;
+}
+
+
+.main__boton--ver {
+    color: white;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+    background-color: mediumorchid;
+}
